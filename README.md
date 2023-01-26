@@ -81,7 +81,7 @@ else:
 ### iii) Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
-Program to find the element in a list using Binary Search(Iterative Method)..
+Program to find the element in a list using Binary Search(Recurive Method)..
 Developed by: AmruthaRajsheker
 RegisterNumber: 22004501
 '''
